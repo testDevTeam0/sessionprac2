@@ -109,6 +109,27 @@ GET 요청으로 아래와 같은 JSON 형식의 응답을 확인할 수 있습�
   "address": "seoul",
   "phone_number": "010-1234-5678"
 }
+```
+## 📸 Talend API Tester 화면
+
+요청과 응답은 Talend API Tester를 통해 확인했습니다.
+
+### ✅ POST 요청 결과
+사용자 정보를 전달하여 회원 생성
+![image](https://github.com/user-attachments/assets/18dde09b-88b0-46af-ab74-69f1d506be40)
+
+
+### ✅ GET 요청 결과  
+생성된 회원 정보를 JSON 형태로 응답
+![image](https://github.com/user-attachments/assets/b881725e-cf41-473f-b34d-aaeffa2ba519)
+
+
+### ✅ PUT 요청 결과  
+전화번호를 수정하여 정보 업데이트
+![image](https://github.com/user-attachments/assets/d6afcdcb-7e53-4e96-9663-84c4a971c6ad)
 
 
 
+### ✅ DELETE 요청 결과  
+회원 정보를 삭제한 뒤 반환 메시지 확인
+![image](https://github.com/user-attachments/assets/f3edffd2-fb3d-4b4a-9f32-c0ef44869c32)
