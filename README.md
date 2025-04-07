@@ -3,6 +3,7 @@
 > `@GetMapping`, `@PostMapping`, `@PutMapping`, `@DeleteMapping`을 활용한 RESTful API 실습
 
 ---
+
 <br>
 
 ## ✨ HTTP 메서드 요약
